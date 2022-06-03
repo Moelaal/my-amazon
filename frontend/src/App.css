@@ -1,0 +1,19 @@
+main h1 {
+  padding: 2rem;
+}
+
+.rating span {
+  color: #ffd24c;
+}
+
+.btn-primary {
+  background-color: #ff8d29;
+  border: #ff8d29;
+  color: black;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  background-color: #d88a45;
+  color: rgb(23, 22, 22);
+}
